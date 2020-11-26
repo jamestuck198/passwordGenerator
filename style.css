@@ -1,0 +1,35 @@
+body{
+    background-color: #0F0E0E;
+}
+h1{
+    font-weight: 900;
+    color: #7B0828;
+    left: 50%;
+    text-align: center;
+    font-family:sans-serif;
+}
+
+p{
+    font-size: x-large;
+    font-weight: bold;
+    color: #FBF5F3;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:sans-serif;
+}
+button.newPassword{
+    font-size: large;
+    font-weight: bold;
+    color: #FBF5F3;
+    background-color: #0F0E0E;
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:sans-serif;
+    border-color: #0F0E0E;
+}
